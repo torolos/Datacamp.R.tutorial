@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540365060412.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "776409552",
+    "id" : "D1BD98EB",
+    "lastKnownWriteTime" : 1540377506,
+    "last_content_update" : 1540377506814,
+    "path" : "~/R/datacamp/datacamp.r",
+    "project_path" : "datacamp.r",
+    "properties" : {
+        "cursorPosition" : "58,50",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
